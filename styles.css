@@ -67,7 +67,7 @@ h1, h2, h3 {
 }
 
 .card-img {
-    background-image: url('/public/imgs/illustration-hero.svg');
+    background-image: url('public/imgs/illustration-hero.svg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
